@@ -36,6 +36,8 @@ In the background, whenever a cache slot needs to be overwritten by another memo
 To better facilitate bugtesting and grading assessment, a predetermined list of requests and i/o values was provided.
 These are hard-coded in this version of my code (see lines 48 and 49).
 
+
 To-do:
+
 I'd like to modify this to accept user inputs instead of following a predetermined set of requests so one can better use the
 program to play around with and observe cache behavior.
